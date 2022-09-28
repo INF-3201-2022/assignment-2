@@ -1,5 +1,5 @@
 # assignment-2
-Create and name your private repository starting with "assignment_2".
+Create your private repository and name it starting with "assignment_2".
 
 Send me on discord your names in the group with the private github repository you create for the assignment asap.
 
