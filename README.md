@@ -5,4 +5,4 @@ Add a README in your repository that includes how to run your program. Also add 
 
 Send me on discord the names in each groups with the private github repository link where you will have your project.
 
-Name your repository starting with assignment_2.
+Name your repository starting with "assignment_2".
