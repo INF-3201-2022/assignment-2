@@ -4,4 +4,5 @@ Deadline is 17/10/2022 23:59:59.
 Add a README in your repository that includes how to run your program. Also add in it what changes you made to the precode.
 
 Send me on discord the names in each groups with the private github repository link where you will have your project.
-Have your repository names starting with assignment_2.
+
+Name your repository starting with assignment_2.
